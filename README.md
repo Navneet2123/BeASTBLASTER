@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeASTBLASTER
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on various projiect
+- 💞️ I’m looking to collaborate on various project
 - 📫 How to reach me using github message
 
 <!---
