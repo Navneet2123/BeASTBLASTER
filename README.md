@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeASTBLASTER
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in life devlopment with software
+- 🌱 I’m currently learning dsa in c++
 - 💞️ I’m looking to collaborate on various project
 - 📫 How to reach me using github message
 
